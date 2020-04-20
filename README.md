@@ -7,4 +7,4 @@ Este es un script en el cual a partir de un array de ints devuelve un array de s
 
 Se utilizo Python 3.8.2 como lenguaje de escritura del script, por su simplicidad ya que se puede resolver el problema en pocas líneas.
 
-Para ejecutar, utilizar abrir el archivo con Python.
+Para ejecutar, abrir el archivo con el intérprete de Python.
